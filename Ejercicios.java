@@ -18,8 +18,9 @@ public class Ejercicios {
      * Ejemplo: Si ejecutas la función, debe retornar 3.14159
      */
     public double declararDecimal() {
-        // TODO: Implementar
-        return 0.0;
+        double Pi;
+        Pi = 3.14159;
+        return Pi;
     }
     
     /**
@@ -27,8 +28,8 @@ public class Ejercicios {
      * Ejemplo: Si ejecutas la función, debe retornar "Hola Mundo"
      */
     public String declararTexto() {
-        // TODO: Implementar
-        return "";
+        String s="Hola Mundo";
+        return s;
     }
     
     /**
