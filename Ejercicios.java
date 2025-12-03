@@ -37,8 +37,8 @@ public class Ejercicios {
      * Ejemplo: Si ejecutas la función, debe retornar true
      */
     public boolean declararBooleano() {
-        // TODO: Implementar
-        return false;
+        boolean b=true;
+        return b;
     }
     
     /**
@@ -46,9 +46,7 @@ public class Ejercicios {
      * Ejemplo: Si pasas 123, debe retornar "123"
      */
     public String convertirEnteroATexto(int num) {
-
-
-        return ""+num;
+        return String.valueOf(num);
     }
     
     /**
